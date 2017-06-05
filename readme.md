@@ -1,12 +1,17 @@
 This is a boilerplate for Jekyll projects at [Default Value](https://defaultvalue.info).
 
-**This repo is due to the following resources:**
+---
+
+**This repo is based on the following resources:**
 - [sawyerh/jekyll-boilerplate](https://github.com/sawyerh/jekyll-boilerplate)
 - [michaelx/gulp-jekyll](https://github.com/michaelx/gulp-jekyll)
 - [nielsenramon/kickster](https://github.com/nielsenramon/kickster)
 - [uberbryn/spector](https://github.com/uberbryn/spector)
+- [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons)
 
-**The following is included**
+----
+
+**Included**
 - Yarn
 - Sass, Uncss, and Autoprefixer via Gulp and PostCSS
 - ES6 via Webpack and Babel
@@ -15,7 +20,10 @@ This is a boilerplate for Jekyll projects at [Default Value](https://defaultvalu
 - [Browsersync](https://www.browsersync.io)
 - Deploy to gh-pages
 
+----
+
 **Usage**
+
 Installation
 ```
 yarn install && bundle install
